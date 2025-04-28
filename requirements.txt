@@ -1,0 +1,27 @@
+
+---
+
+## requirements.txt
+
+```plaintext
+# Data Manipulation
+numpy==1.21.2
+pandas==1.3.3
+
+# Web Scraping
+requests==2.26.0
+beautifulsoup4==4.10.0
+lxml==4.6.3
+
+# Machine Learning
+scikit-learn==0.24.2
+
+# Visualization
+matplotlib==3.4.3
+seaborn==0.11.2
+
+# Notebook Environment
+jupyter==1.0.0
+
+# Additional Utilities
+tqdm==4.62.3
